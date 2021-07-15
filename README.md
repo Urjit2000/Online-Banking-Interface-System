@@ -21,3 +21,10 @@ Money Transfer - Keeps a track of money transfers between the accounts.
 # Activty Diiagram
 
 ![Screenshot 2021-07-15 at 12 02 19 PM](https://user-images.githubusercontent.com/79261660/125740020-89c9a93c-3c47-495c-9621-14bb60540533.png)
+
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/79261660/125740435-5d7a182a-2135-46e7-a0f1-42248a3515cf.png)
+
+![image](https://user-images.githubusercontent.com/79261660/125740467-ca19cb17-ba27-484e-9841-87a1b82303db.png)
+
